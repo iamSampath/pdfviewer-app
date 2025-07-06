@@ -18,7 +18,7 @@ A lightweight, standalone **PDF viewer** built in **JavaFX**, designed for smoot
 
 You can download the Windows installer from the latest release:
 
-- [**Download PDF Viewer v1.0**](https://github.com/iamSampath/pdfviewer-app/releases/download/v1.0/PdfViewerApp-1.0.zip)
+- [**Download PDF Viewer v1.0**](https://github.com/iamSampath/pdfviewer-app/archive/refs/tags/V1.0.zip)
 
 Once downloaded, extract the `.zip` file and run the **`PdfViewerApp-1.0.exe`** installer.
 
@@ -85,14 +85,9 @@ Release Notes: https://github.com/iamSampath/pdfviewer-app/releases
 
 ```yaml
 
----
-
 ### Key Updates:
 - The **"Build the Project"** section is now included under **Development Setup** to guide developers who want to clone the repository, build, and run the project locally.
-
 This version will ensure that contributors know how to **set up and build the project** while users can easily download the installer.
-
-Let me know if you need any further adjustments!
 
 ```
 
