@@ -51,3 +51,48 @@ Clone the repository:
 ```bash
 git clone https://github.com/iamSampath/pdfviewer-app.git
 cd pdfviewer-app
+
+```
+
+Build the project:
+
+```bash
+  mvn clean package
+```
+Run the application locally (with a running JavaFX-enabled JDK):
+
+```bash
+ java -jar target/PdfViewerApp-1.0.jar
+```
+##👨‍💻 Contributing
+
+We welcome contributions! If you have an idea for a new feature or find a bug, feel free to open an issue or submit a pull request.
+
+Steps to Contribute:
+1. Fork the repository.
+2. Create a feature branch (git checkout -b feature-name).
+3. Commit your changes (git commit -am 'Add new feature').
+4. Push to the branch (git push origin feature-name).
+5. Create a new pull request.
+
+##📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+🔗 Links
+GitHub Repository: https://github.com/iamSampath/pdfviewer-app
+Release Notes: https://github.com/iamSampath/pdfviewer-app/releases
+
+```yaml
+
+---
+
+### Key Updates:
+- The **"Build the Project"** section is now included under **Development Setup** to guide developers who want to clone the repository, build, and run the project locally.
+
+This version will ensure that contributors know how to **set up and build the project** while users can easily download the installer.
+
+Let me know if you need any further adjustments!
+
+```
+
