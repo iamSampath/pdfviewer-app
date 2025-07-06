@@ -92,6 +92,10 @@ Release Notes: https://github.com/iamSampath/pdfviewer-app/releases
 
 This version will ensure that contributors know how to **set up and build the project** while users can easily download the installer.
 
+```
+
+
+
 Let me know if you need any further adjustments!
 
 ```
