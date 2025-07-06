@@ -85,18 +85,9 @@ Release Notes: https://github.com/iamSampath/pdfviewer-app/releases
 
 ```yaml
 
----
-
 ### Key Updates:
 - The **"Build the Project"** section is now included under **Development Setup** to guide developers who want to clone the repository, build, and run the project locally.
-
 This version will ensure that contributors know how to **set up and build the project** while users can easily download the installer.
-
-```
-
-
-
-Let me know if you need any further adjustments!
 
 ```
 
