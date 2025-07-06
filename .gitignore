@@ -1,0 +1,22 @@
+# IDE settings
+.idea/
+.vscode/
+
+# Build artifacts
+target/
+*.class
+*.jar
+*.exe
+
+# Maven
+dependency-reduced-pom.xml
+
+# OS + temp files
+*.log
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Misc
+openPdf(primaryStage))
+showPage(currentPage
